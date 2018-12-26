@@ -1,0 +1,71 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "firstName": "Hacer",
+      "lastName": "Bakırcı",
+      "course": {
+        "id": "1",
+        "title": "Advanced ASPNET Core",
+        "description": ".Net Core Advanced"
+      }
+    },
+    {
+      "id": "2",
+      "firstName": "Ertuğrul",
+      "lastName": "Kara",
+      "course": {
+        "id": "2",
+        "title": "Introduction to GraphQL",
+        "description": "Fundamentals"
+      }
+    },
+    {
+      "id": "3",
+      "firstName": "Emre",
+      "lastName": "Aydın",
+      "course": {
+        "id": "3",
+        "title": "Computer Science",
+        "description": "-"
+      }
+    },
+    {
+      "id": "4",
+      "firstName": "Meltem",
+      "lastName": "Yılmaz",
+      "course": {
+        "id": "3",
+        "title": "Computer Science",
+        "description": "-"
+      }
+    },
+    {
+      "id": "5",
+      "firstName": "Murat",
+      "lastName": "Denizli",
+      "course": {
+        "id": "2",
+        "title": "Introduction to GraphQL",
+        "description": "Fundamentals"
+      }
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "title": "Advanced ASPNET Core",
+      "description": ".Net Core Advanced"
+    },
+    {
+      "id": "2",
+      "title": "Introduction to GraphQL",
+      "description": "Fundamentals"
+    },
+    {
+      "id": "3",
+      "title": "Computer Science",
+      "description": "-"
+    }
+  ]
+}

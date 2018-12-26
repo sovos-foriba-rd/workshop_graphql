@@ -1,0 +1,14 @@
+C:\Users\hacer.bakirci\Desktop\GraphQL-Workshop\CoreGraphQL\bin\Debug\netcoreapp2.1\CoreGraphQL.deps.json
+C:\Users\hacer.bakirci\Desktop\GraphQL-Workshop\CoreGraphQL\bin\Debug\netcoreapp2.1\CoreGraphQL.runtimeconfig.json
+C:\Users\hacer.bakirci\Desktop\GraphQL-Workshop\CoreGraphQL\bin\Debug\netcoreapp2.1\CoreGraphQL.runtimeconfig.dev.json
+C:\Users\hacer.bakirci\Desktop\GraphQL-Workshop\CoreGraphQL\bin\Debug\netcoreapp2.1\CoreGraphQL.dll
+C:\Users\hacer.bakirci\Desktop\GraphQL-Workshop\CoreGraphQL\bin\Debug\netcoreapp2.1\CoreGraphQL.pdb
+C:\Users\hacer.bakirci\Desktop\GraphQL-Workshop\CoreGraphQL\obj\Debug\netcoreapp2.1\CoreGraphQL.csprojAssemblyReference.cache
+C:\Users\hacer.bakirci\Desktop\GraphQL-Workshop\CoreGraphQL\obj\Debug\netcoreapp2.1\CoreGraphQL.csproj.CoreCompileInputs.cache
+C:\Users\hacer.bakirci\Desktop\GraphQL-Workshop\CoreGraphQL\obj\Debug\netcoreapp2.1\CoreGraphQL.RazorAssemblyInfo.cache
+C:\Users\hacer.bakirci\Desktop\GraphQL-Workshop\CoreGraphQL\obj\Debug\netcoreapp2.1\CoreGraphQL.RazorAssemblyInfo.cs
+C:\Users\hacer.bakirci\Desktop\GraphQL-Workshop\CoreGraphQL\obj\Debug\netcoreapp2.1\CoreGraphQL.AssemblyInfoInputs.cache
+C:\Users\hacer.bakirci\Desktop\GraphQL-Workshop\CoreGraphQL\obj\Debug\netcoreapp2.1\CoreGraphQL.AssemblyInfo.cs
+C:\Users\hacer.bakirci\Desktop\GraphQL-Workshop\CoreGraphQL\obj\Debug\netcoreapp2.1\CoreGraphQL.RazorTargetAssemblyInfo.cache
+C:\Users\hacer.bakirci\Desktop\GraphQL-Workshop\CoreGraphQL\obj\Debug\netcoreapp2.1\CoreGraphQL.dll
+C:\Users\hacer.bakirci\Desktop\GraphQL-Workshop\CoreGraphQL\obj\Debug\netcoreapp2.1\CoreGraphQL.pdb
